@@ -1,0 +1,16 @@
+name: TextEmotes
+description: Adds Discord style emote commands.
+version: 1.0
+authors: [Aaesos]
+main: io.frostfire.textemotes.TextEmotesPlugin
+
+commands:
+  shrug:
+    description: Appends ¯\_(ツ)_/¯ to your message.
+    usage: /shrug [message]
+  tableflip:
+    description: Appends (╯°□°）╯︵ ┻━┻ to your message.
+    usage: /tableflip [message]
+  unflip:
+    description: Appends ┬─┬﻿ ノ( ゜-゜ノ) to your message.
+    usage: /unflip [message]
